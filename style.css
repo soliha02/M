@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.section-one {
+    background: #f3d7b7;
+    padding: 100px 50px;
+    margin-top: 50px;
+    height: 800px;
+    display: flex;
+    align-items: center;
+}
+
+.coffee {
+    width: 710px;
+    height: 694px;
+    transition: 0.5s;
+    transform: translateY(-54px);
+    transform: translate3d(50px, 230px, 0);
+}
+
+.logo {
+    transform: translate3d(-30px, -570px, 0);
+}
+
+.section-two {
+    width: 1440px;
+    height: 1798px;
+    top: 800px;
+    background-color: rgb(201, 179, 147);
+}
+
+.h1 {
+    margin-left: 550px;
+    padding-top: 130px;
+    font-size: 60px;
+
+}
+
+.imeg {
+    width: 465px;
+    height: 400px;
+    padding-top: 100px;
+}
+
+.H1 {
+    margin-left: 60px;
+    margin-top: 140px;
+    font-size: 50px;
+}
+
+
+
+.p{
+    width: 500px;
+    margin-left: 60px;
+    margin-top: 70px;
+    font-size: 35px;
+
+}
+.Div{
+    display: flex;
+}
+.imug{
+    width: 465px;
+    height: 400px;
+
+    padding-top: 100px;
+}
+.H-1{
+    margin-left: 60px;
+    margin-top: 150px;
+    font-size: 50px;  
+}
+.P{
+    width: 500px;
+    margin-left: 60px;
+    margin-top: 70px;
+    font-size: 35px;  
+}
+.Dev{
+    display: flex;
+}
+.h1-p{
+    margin-left: 10px;
+}
